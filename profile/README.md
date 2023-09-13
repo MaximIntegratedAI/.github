@@ -20,8 +20,7 @@ ADI’s MAX78000/MAX78002 project is comprised of five main repositories:
 
 5. The reference design repository, which contains host applications and sample applications for reference designs
    such as [MAXREFDES178/Cube Camera](https://www.analog.com/en/design-center/reference-designs/maxrefdes178.html):
+   *Note - Examples for EVkits and Feather boards are part of the MSDK*
 
     [refdes](https://github.com/MaximIntegratedAI/refdes)
-
-    *Note: Examples for EVkits and Feather boards are part of the MSDK*
 
