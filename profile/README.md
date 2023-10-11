@@ -22,5 +22,5 @@ ADI’s MAX78000/MAX78002 project is comprised of five main repositories:
    such as [MAXREFDES178/Cube Camera](https://www.analog.com/en/design-center/reference-designs/maxrefdes178.html):
    *Note - Examples for EVkits and Feather boards are part of the MSDK*
 
-    [refdes](https://github.com/MaximIntegratedAI/refdes)
+    [refdes](https://github.com/Analog-Devices-MSDK/refdes)
 
