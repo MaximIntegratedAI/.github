@@ -8,7 +8,7 @@ ADI’s MAX78000/MAX78002 project is comprised of five main repositories:
 
 2. The software development kit (MSDK), which contains drivers and example programs ready to run on the evaluation kits:
 
-    [Analog Devices MSDK](https://github.com/Analog-Devices-MSDK/msdk)
+    [Analog Devices MSDK](https://github.com/analogdevicesinc/msdk)
 
 3. The training repository, which is used for deep learning *model development and training*:
 
@@ -22,5 +22,5 @@ ADI’s MAX78000/MAX78002 project is comprised of five main repositories:
    such as [MAXREFDES178/Cube Camera](https://www.analog.com/en/design-center/reference-designs/maxrefdes178.html):
    *Note - Examples for EVkits and Feather boards are part of the MSDK*
 
-    [refdes](https://github.com/Analog-Devices-MSDK/refdes)
+    [MAX78xxx-RefDes](https://github.com/analogdevicesinc/MAX78xxx-RefDes)
 
